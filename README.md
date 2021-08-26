@@ -1,14 +1,23 @@
 # Introduction
-N/A
 
-# Usage
-N/A
+## Teachers:
+- TBD
 
-# Notes
-N/A
+## Topics:
+- TBD
 
-# Requirements & Dependencies
-N/A
+# Grades
 
-# Previews
-![preview image](https://via.placeholder.com/350x240)
+|Assignment|Grade|Notes|
+|:-|:-|:-|
+|TBD|TBD|TBD|
+
+# Books, Languages, & Programs
+## Books
+- TBD
+
+## Languages
+- TBD
+
+## Programs
+- TBD
